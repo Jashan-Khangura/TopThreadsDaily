@@ -1,1 +1,1 @@
-# TopThreadsDaily
+This project is an AI bot that curates trending topics and creates engaging Twitter posts. It uses GPT-based AI to generate concise and natural tweets, sparking conversation and sharing insights.# TopThreadsDaily
